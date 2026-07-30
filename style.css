@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+}
+#nav-contant{
+  display: flex;
+  justify-content: space-between;
+  background-color: #FFF8F3;
+
+
+}
+ul{
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
