@@ -121,4 +121,26 @@ font-weight: 400;
   display: flex;
   justify-content:space-between;
   padding: auto 180px;
+  margin: 50px 90px;
+
+}
+.about-my-contaner p{
+  color: #757575FF;
+  font-family: "Open Sans";
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.about-my-contaner h3{
+  color: #474747FF;
+  font-family: "Open Sans";
+  font-size: 20px;
+  font-weight: 700;
+}
+.about-hader{
+  color: #181818FF;
+  font-family: "Open Sans";
+  font-size: 35px;
+  font-weight: 700;
+  margin-bottom: 48px;
 }
