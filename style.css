@@ -8,12 +8,15 @@ img{
   max-width: 1200px;
   margin: auto;
 }
+header{
+   background-color: #FFF8F3;
+}
+
+/* Nav section */
+
 #nav-contant{
   display: flex;
   justify-content: space-between;
-}
-header{
-   background-color: #FFF8F3;
 }
 .logo-r{
   color: #FD6E0A;
@@ -76,6 +79,9 @@ nav ul li a{
 .nav-bnt{
   margin-top: -15px;
 }
+
+/* Hero banner Section */
+
 .hero-perent{
   display: flex;
   justify-content: space-between;
@@ -144,3 +150,6 @@ font-weight: 400;
   font-weight: 700;
   margin-bottom: 48px;
 }
+
+/* What I do Section */
+
