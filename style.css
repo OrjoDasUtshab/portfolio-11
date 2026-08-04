@@ -101,3 +101,24 @@ margin: 0;
 font-family: 'Open Sans';
 font-weight: 400;
 }
+
+.about-contaner{
+  background-color: #fff8f3;
+  text-align: center;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 70px auto;
+}
+.about-contaner .about-p-box{
+  margin: 10px auto;
+  padding: 0 190px;
+  font-family: "Open Sans";
+  color: #757575FF;
+  font-size: 18px;
+  font-weight: 400;
+}
+.about-my-contaner{
+  display: flex;
+  justify-content:space-between;
+  padding: auto 180px;
+}
