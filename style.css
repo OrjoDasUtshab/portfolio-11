@@ -211,3 +211,66 @@ font-weight: 400;
   font-weight: 400;
   font-family: "Open Sans";
 }
+
+/* A-summary-of-My-Resume*/
+
+
+.A-summary-of-My-Resume-contaner{
+  display: flex;
+  justify-content: space-between;
+}
+.A-summary-of-My-Resume-education{
+  text-align: left;
+  
+}
+.A-summary-of-My-Resume-education-box{
+  width: 511px;
+  height: 175px;
+  left: 230px;
+  top: 2604px;
+}
+.A-summary-of-My-Resume-Experience{
+  text-align: left;
+}
+#A-summary-of-My-Resume-hader{
+  text-align: center;
+  height: 42px;
+  color: #181818FF;
+  font-family: "Open Sans";
+  font-size: 35px;
+  font-weight: 700;
+  top: 2372px;
+  left: 570px;
+  height: 42px;
+}
+#A-summary-of-My-Resume-education-hader{
+  height: 36px;
+  left: 230px;
+  top: 2533px;
+  color: #474747FF;
+  font-family: "Open Sans";
+  font-size: 30px;
+  font-weight: 700;
+}
+#A-summary-of-My-Resume-Experience-hader{
+  left: 812px;
+  top: 2533px;
+  color: #474747FF;
+  font-family: "Open Sans";
+  font-size: 30px;
+  font-weight: 700;
+}
+.A-summary-of-My-Resume-Experience-box{
+  width: 511px;
+  height: 175px;
+  left: 812px;
+  top: 2604px;
+}
+.A-summary-of-My-Resume-education-box-h3{
+  height: 30px;
+  color: #474747FF;
+  font-family: "Open Sans";
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 1.2;
+}
