@@ -407,3 +407,71 @@ padding: 15px 60px;
   top: 3837px;
   margin-top: -160px;
 }
+footer{
+  background-color: #fff8f3;
+  margin-top: 150px;
+}
+.footer-contaner{
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+.footer-contaner-h2{
+  left: 230px;
+  height: 42px;
+  top: 4591px;
+  font-family: "Open Sans";
+  color: #181818FF;
+  font-size: 35px;
+}
+.footer-contaner-h2-2{
+  height: 42px;
+  left: 909px;
+  top: 4591px;
+  font-family: "Open Sans";
+  color: #181818FF;
+  font-size: 35px;
+}
+.from-box-footer-1{
+  width: 461px;
+  height: 50px;
+  margin-bottom: 20px;
+}
+.from-box-footer-2{
+  width: 461px;
+  height: 50px;
+  margin-bottom: 20px;
+}
+.from-box-footer-3{
+  width: 461px;
+  height: 80px;
+  margin-bottom: 20px;
+}
+.footer-contaner-h2-p{
+  width: 562px;
+  left: 230px;
+  top: 4659px;
+  color: #474747FF;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.75;
+}
+.footer-contaner-h2-p-icon{
+  width: 120px;
+  height: 24px;
+  left: 230px;
+  top: 4745px;
+}
+.right-footer{
+  margin-left: 130px;
+}
+#deplaber-name-contaner{
+  background-color: #BF93F6;
+  padding-bottom: 10px;
+}
+.deplaber-name{
+  margin-top: 100px;
+  display: flex;
+  justify-content: end;
+}
