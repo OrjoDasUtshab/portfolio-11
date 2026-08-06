@@ -273,4 +273,137 @@ font-weight: 400;
   font-size: 25px;
   font-weight: 700;
   line-height: 1.2;
+  margin: 10px auto;
+}
+.A-summary-of-My-Resume-education-box-h4{
+  height: 24px;
+  top: 44px;
+  color: #757575FF;
+  font-family: "Open Sans";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.2;
+  margin: 10px auto;
+}
+.A-summary-of-My-Resume-education-box-p{
+  width: 511px;
+  top: 91px;
+  color: #757575FF;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.75;
+  margin: 5px auto;
+}
+.A-summary-of-My-Resume-contaner hr{
+  margin-top: 0px;
+}
+.A-summary-of-My-Resume-Experience-box-h3{
+  height: 30px;
+  color: #474747FF;
+  font-family: "Open Sans";
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 10px auto;
+}
+.A-summary-of-My-Resume-Experience-box-h4{
+  color: #757575FF;
+  height: 24px;
+  top: 44px;
+  font-family: "Open Sans";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.2;
+  margin: 10px auto;
+}
+.A-summary-of-My-Resume-Experience-box-p{
+  width: 511px;
+  top: 91px;
+  color: #757575FF;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.75;
+  margin: 5px auto;
+}
+.A-summary-of-My-Resume-education-bnt{
+padding: 15px 60px;
+  
+  color: white;
+  background-color: #FD6E0A;
+  border-radius: 15px;
+   font-size: 15px;
+  font-weight: 900;
+  margin-left: 450px;
+  margin-top: 50px;
+}
+.A-summary-of-My-Resume-education-bnt:hover{
+  color:#FD6E0A ;
+  background-color: #FFF8F3;
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: 900;
+  margin-right: 100px;
+}
+/* My-Amazing-Works-contaner */
+
+#My-Amazing-Works-hader{
+  color: #181818FF;
+  font-family: "Open Sans";
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-top: 90px;
+  margin-bottom: 45px;
+}
+.My-Amazing-Works-contaner{
+  text-align: center;
+}
+.My-Amazing-Works-pic{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+}
+.My-Amazing-Works-pic img{
+  height: 100%;
+  width: 100%;
+}
+.one{
+  width: 364px;
+  height: 300px;
+  left: 230px;
+  top: 3591px;
+}
+.two{
+  width: 364px;
+  height: 416px;
+  left: 618px;
+  top: 3591px;
+}
+.there{
+  width: 364px;
+  height: 222px;
+  left: 1006px;
+  top: 3591px;
+}
+.four{
+  width: 364px;
+  height: 416px;
+  left: 230px;
+  top: 3915px;
+  margin-top: -80px;
+}
+.five{
+  width: 364px;
+  height: 300px;
+  left: 618px;
+  top: 4031px;
+  margin-top: 35px;
+}
+.six{
+  width: 364px;
+  height: 494px;
+  left: 1006px;
+  top: 3837px;
+  margin-top: -160px;
 }
